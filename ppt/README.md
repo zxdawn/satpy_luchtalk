@@ -1,0 +1,1 @@
+The original PPT file can be accessed by [Google Doc](https://docs.google.com/presentation/d/12ffS6Ra5-aYl6bNCFzvGIxOzEaQI84nQel_dDUcmYqA/edit?usp=sharing).
