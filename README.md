@@ -1,5 +1,5 @@
 # satpy_luchtalk
-The source file of my lunch talk about Satpy (2020-07-06) in KNMI.
+The source files of my lunch talk about Satpy (2020-07-06) in KNMI.
 
 - Notebooks
 
