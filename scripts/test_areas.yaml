@@ -1,0 +1,27 @@
+alaska_2km:
+  description: alaska_2km
+  projection:
+    proj: laea
+    ellps: WGS84
+    lat_0: 65.0
+    lon_0: -150.5
+  shape:
+    height: 658
+    width: 658
+  area_extent:
+    lower_left_xy: [-658104.918380, -609146.597950]
+    upper_right_xy: [658104.918380, 707271.950392]
+alaska_1km:
+  description: alaska_1km
+  projection:
+    proj: laea
+    ellps: WGS84
+    lat_0: 65.0
+    lon_0: -152.5
+  shape:
+    height: 1094
+    width: 1387
+  area_extent:
+    lower_left_xy: [-693463.960628, -489067.431801]
+    upper_right_xy: [693463.960628, 604962.309373]
+
