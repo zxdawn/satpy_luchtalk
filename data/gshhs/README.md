@@ -1,0 +1,1 @@
+Downloaded from https://www.ngdc.noaa.gov/mgg/shorelines/data/gshhs/latest/.
