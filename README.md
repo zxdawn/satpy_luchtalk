@@ -1,5 +1,5 @@
 # satpy_luchtalk
-The source files of my lunch talk about Satpy (2020-07-06) in KNMI.
+Materials of my lunch talk about Pytroll in KNMI (2022-07-06).
 
 - Notebooks
 
@@ -13,4 +13,4 @@ The source files of my lunch talk about Satpy (2020-07-06) in KNMI.
 
   The presentation file is saved under `/ppt` directory.
 
-  
+For more information about Pytroll, please feel free to check the [tutorial-satpy-half-day](https://github.com/pytroll/tutorial-satpy-half-day), [satpy website](https://satpy.readthedocs.io/en/latest/), and [Pytroll website](http://pytroll.github.io/).
